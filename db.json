@@ -1,0 +1,36 @@
+{
+  "countries": [
+    {
+      "id": "2b1b4314-51b4-435a-9ef6-f6d799ac72f9",
+      "code": "AR",
+      "description": "Argentina",
+      "documents": [
+        {
+          "id": "c0c99d24-c925-4488-8689-2364a05d909e",
+          "code":"DNI",
+          "description": "Documento de Identidad Nacional",
+          "mask": "XX.XXX.XXX"
+        },
+        {
+          "id": "50169c80-845c-4bca-9b90-94875bdf2ea0",
+          "code":"LC",
+          "description": "Libreta Civica",
+          "mask": "XX.XXX.XXX"
+        }
+      ]
+    },
+    {
+      "id": "996f5ef2-d064-4347-b404-cd52da301f0a",
+      "code": "CH",
+      "description": "Chile",
+      "documents": [
+        {
+          "id": "aa3e3262-ebb1-47fa-888b-17a8e80c117d",
+          "code":"RUT",
+          "description": "Rol Unico Tributario",
+          "mask": "XX.XXX.XXX"
+        }
+      ]
+    }
+  ]
+}
