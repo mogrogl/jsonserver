@@ -31,6 +31,19 @@
           "mask": "XX.XXX.XXX"
         }
       ]
+    },
+    {
+      "id": "996f5ef2-d064-4347-b404-cd52da301f0z",
+      "code": "BR",
+      "description": "Brazil",
+      "documents": [
+        {
+          "id": "aa3e3262-ebb1-47fa-888b-17a8e80c117z",
+          "code":"CPF",
+          "description": "Registro de Pessoa Física",
+          "mask": "XX.XXX.XXX"
+        }
+      ]
     }
   ]
 }
