@@ -45,5 +45,10 @@
         }
       ]
     }
-  ]
+  ],
+  "TermsAndConditions": {
+    "text": "<h1>Lorem Ipsum</h1> \n <p>Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...</p>",
+    "version": "0.001",
+    "country": "Argentina"
+  }
 }
