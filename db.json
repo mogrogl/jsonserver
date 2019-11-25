@@ -47,7 +47,7 @@
     }
   ],
   "TermsAndConditions": {
-    "text": "<html>\n<style>\n#termsmock h1 {\nmargin: 16px 0;\nfont-size: 28px;\n}\n#termsmock h2 {\nmargin: 16px 0;\nfont-size: 24px;\n}\n#termsmock h3 {\nmargin: 16px 0;\nfont-size: 20px;\n}\n#termsmock p {\nmargin: 16px 0;\n}\n</style>\n<body>\n<div id="termsmock">
+    "text": "<html>\n<style>\n#termsmock h1 {\nmargin: 16px 0;\nfont-size: 28px;\n}\n#termsmock h2 {\nmargin: 16px 0;\nfont-size: 24px;\n}\n#termsmock h3 {\nmargin: 16px 0;\nfont-size: 20px;\n}\n#termsmock p {\nmargin: 16px 0;\n}\n</style>\n<body>\n<div id=\"termsmock\">
           <h1>elit et voluptate eu dolore nostrud</h1>\n
           <p>Duis sunt sit sint sunt laborum veniam pariatur.</p>\n
           <h3>enim irure adipisicing in</h3>\n
